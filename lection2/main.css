@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+}
+.target{
+    background: #bb7b27;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding:10%;
+    /*margin: 100px;*/
+    margin: 30px 30px 30px 30px;
+    box-shadow: black 20px 20px 0px 0px;
+
+}
+.target1 {
+    background: #bb7b27;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10%;
+    /*margin: 100px;*/
+    margin: 30px 30px 30px 30px;
+    box-shadow: rgb(0 0 0 / 77%) 20px 20px 2px 0px;
+}
+.target2 {
+    background: #bb7b27;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10%;
+    /*margin: 100px;*/
+    margin: 30px 30px 30px 30px;
+    box-shadow: rgba(0, 0, 0, 0.9) 25px 25px 5px 0px;
+
+
+}
+.target3{
+    background: #bb7b27;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10%;
+    /*margin: 100px;*/
+    margin: 30px 30px 30px 30px;
+    box-shadow:silver 20px 20px 3px 0px;
+
+
+}
+.target4{
+    background: #bb7b27;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10%;
+    /*margin: 100px;*/
+    margin: 30px 30px 30px 30px;
+    box-shadow:rgb(0 0 0 / 77%) 20px 20px 5px 0px;
+    border-radius: 10px;
+
+}
+.target5{
+    background: #bb7b27;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10%;
+    /*margin: 100px;*/
+    margin: 30px 30px 30px 30px;
+    box-shadow:silver 20px 20px 5px 0px;
+    border-radius: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.target:hover{
+
+}
