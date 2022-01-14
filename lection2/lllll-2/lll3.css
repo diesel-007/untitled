@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.target {
+    background: #5b5858;
+    text-align:center ;
+    height: 200px;
+    width: 300px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10%;
+    /*margin: 100px;*/
+
+    margin: 300px 300px 7px 30px;
+    margin-left: 300px;
+    box-shadow: #eac096 -20px -20px 7px -1px;
+
+}
+.txt1{
+    height: 120px;
+    margin-left: 300px;
+    border-left:solid 10px red;
+}
