@@ -1,0 +1,29 @@
+
+.products{
+    display: flex;
+    justify-content: space-evenly;
+}
+.product-cards{
+    width:500px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.product-cards >h3{
+    background: cornflowerblue;
+    text-align: center;
+    margin: 0;
+}
+.inerr-box{
+    display: flex;
+}
+.inerr-box> p {
+    box-sizing:border-box ;
+    text-align:justify ;
+    padding-right: 10px;
+}
+.product-cards>p {
+    box-sizing: border-box;
+    text-align: justify;
+    padding-left: 30px;
+
+}
